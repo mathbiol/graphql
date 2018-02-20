@@ -17,7 +17,7 @@ gql=function(q,url){
 //example
 gql().then(x=>{
   y=x
-  return console.log('done, check y, it shouwl be ',x)
+  return console.log('done, check y, it should be ',x)
 })
 
 /* 
