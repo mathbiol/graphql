@@ -1,0 +1,24 @@
+{
+  "name": "graphqltest",
+  "version": "1.0.0",
+  "description": "learning at http://graphql.org/graphql-js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jonasalmeida@github.com/mathbiol/graphql.git"
+  },
+  "author": "Jonas Almeida <jalmeida@mathbiol.org> (http://jonasalmeida.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathbiol/graphql/issues"
+  },
+  "homepage": "https://github.com/mathbiol/graphql#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.13.1"
+  }
+}
