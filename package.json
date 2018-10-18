@@ -1,0 +1,20 @@
+{
+  "name": "i2wgraphql",
+  "version": "1.0.0",
+  "description": "experimenting with graphql API weaving",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathbiol/graphql.git"
+  },
+  "author": "Jonas Almeida <jalmeida@mathbiol.org> (http://jonasalmeida.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathbiol/graphql/issues"
+  },
+  "homepage": "https://github.com/mathbiol/graphql#readme"
+}
