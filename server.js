@@ -9,7 +9,7 @@ var schema = buildSchema(`
   }
 `);
 
-var root = { hello: () => 'Hello world!' };
+var root = { hello: () => `Hello World at ${Date()} !` };
 
 http.createServer(function (request, response) {
   if (request.url != '/favicon.ico') {
