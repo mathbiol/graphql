@@ -1,6 +1,6 @@
 {
   "name": "i2wgraphql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "experimenting with graphql API weaving",
   "main": "server.js",
   "scripts": {
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mathbiol/graphql/issues"
   },
-  "homepage": "https://github.com/mathbiol/graphql#readme"
+  "homepage": "https://github.com/mathbiol/graphql#readme",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {}
 }
